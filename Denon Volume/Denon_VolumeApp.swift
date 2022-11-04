@@ -9,9 +9,9 @@ import SwiftUI
 
 @main
 struct Denon_VolumeApp: App {
-    var body: some Scene {
-        WindowGroup {
-            ContentView()
-        }
-    }
+	var body: some Scene {
+		WindowGroup {
+			ContentView()
+		}
+	}
 }
