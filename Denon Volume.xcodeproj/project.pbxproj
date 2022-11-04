@@ -11,6 +11,7 @@
 		B0D6EB0D29152C2600432CB4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0D6EB0C29152C2600432CB4 /* ContentView.swift */; };
 		B0D6EB0F29152C2600432CB4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B0D6EB0E29152C2600432CB4 /* Assets.xcassets */; };
 		B0D6EB1229152C2600432CB4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B0D6EB1129152C2600432CB4 /* Preview Assets.xcassets */; };
+		B0D6EB1A2915332900432CB4 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0D6EB192915332900432CB4 /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		B0D6EB0E29152C2600432CB4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B0D6EB1129152C2600432CB4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B0D6EB1329152C2600432CB4 /* Denon_Volume.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Denon_Volume.entitlements; sourceTree = "<group>"; };
+		B0D6EB192915332900432CB4 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				B0D6EB0A29152C2600432CB4 /* Denon_VolumeApp.swift */,
 				B0D6EB0C29152C2600432CB4 /* ContentView.swift */,
+				B0D6EB192915332900432CB4 /* Model.swift */,
 				B0D6EB0E29152C2600432CB4 /* Assets.xcassets */,
 				B0D6EB1329152C2600432CB4 /* Denon_Volume.entitlements */,
 				B0D6EB1029152C2600432CB4 /* Preview Content */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B0D6EB1A2915332900432CB4 /* Model.swift in Sources */,
 				B0D6EB0D29152C2600432CB4 /* ContentView.swift in Sources */,
 				B0D6EB0B29152C2600432CB4 /* Denon_VolumeApp.swift in Sources */,
 			);
